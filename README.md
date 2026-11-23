@@ -1,6 +1,6 @@
 <h1 align="center">Memory Jar ✧</h1>
 
-<p align="center"><i>One good thing a day. One little light in the jar. (´• ω •`)</i></p>
+<p align="center"><i>One good thing a day. One little light in the jar. (｡•̀ᴗ-)✧</i></p>
 
 <p align="center">
   <a href="https://github.com/rashidraihan/memory-jar/releases/latest">
