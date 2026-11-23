@@ -11,5 +11,15 @@ dependencies:
     sdk: flutter
   shared_preferences: ^2.2.0
 
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.1
+
 flutter:
   uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon.png"
+  adaptive_icon_background: "#7FB7A4"
+  adaptive_icon_foreground: "assets/icon_fg.png"
